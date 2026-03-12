@@ -1,0 +1,1302 @@
+Date,Position,Company,Type,Qualifications,Role
+2/6/2026,Software Engineer,Canonical,Remote ,"Professional experience as a software engineer 
+Background in Computer Science, STEM or similar
+Strong experience with Linux, OpenStack, Kubernetes or other cloud technologies
+Strong development-level experience with Python, Go, C, C++ on Linux
+Ability to troubleshoot with gdb and other tools
+Familiarity with git source code repositories and branches
+An exceptional academic track record from both high school and preferably university
+Willingness to travel up to 4 times a year for internal events","Resolving complex customer problems related to Ubuntu, OpenStack, or Kubernetes and other open source software
+Maintaining a close working relationship with Canonical's field, support and product engineering teams
+Participating in upstream communities
+Developing fixes, backporting patches, and working with upstream for inclusion
+Reviewing code produced by other engineers
+Demonstrating good judgement in technical methods and techniques"
+2/6/2026,Software Engineer ,Canonical,Remote ,"Professional or academic software delivery using Python
+Exceptional academic track record from both high school and university
+Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+Track record of going above-and-beyond expectations to achieve outstanding results
+Passion for technology evidenced by personal projects and initiatives
+The work ethic and confidence to shine alongside motivated colleagues
+Professional written and spoken English with excellent presentation skills
+Experience with Linux (Debian or Ubuntu preferred) ","Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+Master distributed systems concepts such as observability, identity, tracing
+Work with both Kubernetes and machine-oriented open source applications"
+2/6/2026,Software Support Engineer,Canonical,Remote ,"An exceptional academic track record
+Background in Computer Science, STEM or similar
+Experience with Linux and open source software
+Experience with at least one of Python, Go, C or C++ on Linux
+A drive to learn unfamiliar technology and deep-dive difficult issues
+Willingness to travel up to 4 times a year for internal events
+","Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software
+Maintain a close working relationship with Canonical's Field, Support and product engineering teams
+Participate in upstream communities
+Develop bug fixes, backport patches, and work with upstream for inclusion
+Review code produced by other engineers
+Demonstrate good judgment in technical methods and techniques"
+2/6/2026,Software Engineer,Canonical,Remote ,"An exceptional academic track record
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Knowledge of networking: architecture, design, and protocols
+Understanding of Linux networking, from kernel to user space
+Fluency in C/C++ and at least one of Rust, Python or Golang
+Professional written and spoken English 
+Experience with Linux","Work with the most advanced operating systems and network application technologies available
+Participate upstream and deliver the Ubuntu SoNIC stack
+Collaborate with public clouds and network silicon providers
+Design and implement the best software-defined networking experience for the data center
+Write high-quality, well-designed, fast, secure and well-documented software
+Debug issues and produce high-quality fixes
+Collaborate proactively with a globally distributed organization"
+2/6/2026,Software Engineer,Canonical,Remote ,"You love technology and working with brilliant people
+You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree
+You are experienced with Linux systems administration, package management, and operations
+You have hands-on experience with at least one public cloud
+You are familiar with Docker and Kubernetes
+You are an experienced Python programmer and enjoy challenging projects","Work in Python to design and deliver open source software operations code
+Work across the entire Linux stack, from kernel, networking, storage, to applications
+Learn to think rigorously about application and infrastructure reliability
+Shape high quality open source monitoring and alerting infrastructure
+Simplify open source operations for our customers and open source community
+Demonstrate sound engineering design and testing principles in your code
+Follow agile software development practices
+Coach and develop your colleagues where you have insights"
+2/2/2026,Ubuntu Software Engineer,Canonical,Remote ,"An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above and beyond expectations
+A passion for open source software
+Experience with Rust, Go, Python, Flutter or C/C++","Designing, building and shipping software in Rust, Go, Python and C/C++
+Packaging, integrating, testing and uploading open source software to the Ubuntu repositories
+Debugging issues, then designing and delivering robust solutions
+Authoring and improving technical and community documentation
+Contributing to upstream and neighboring open source projects"
+2/5/2026,Software Engineer,Canonical,Remote ,"Professional experience as a software engineer 
+Background in Computer Science, STEM or similar
+Strong experience with Linux, and at least one of the following:
+Ceph, OpenStack, Kubernetes or other cloud technologies
+Strong development-level experience with at least one of Python, Go, C or C++ on Linux
+Ability to troubleshoot with debugging tools like gdb
+Familiarity with git source code repositories and branches","Resolving complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software
+Maintaining a close working relationship with Canonical's Field, Support and product engineering teams
+Participating in upstream communities
+Developing bug fixes, backporting patches, and working with upstream for inclusion
+Reviewing code produced by other engineers
+Demonstrating good judgement in technical methods and techniques"
+2/5/2026,Security Software Engineer,Canonical,Remote ,"An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+A track record of going above and beyond expectations
+Thorough understanding of the common categories of security vulnerabilities and how to fix them
+Knowledge of modern software engineering techniques
+Familiarity with open source development tools and methodologies 
+Skill in one or more of C, C++, Python, Go, Rust, Java, Ruby, PHP, or JavaScript/Typescript
+Experience as a security champion
+Experience driving security within a wider SSDLC process 
+Professional written and spoken English 
+Experience with Linux (Debian or Ubuntu preferred) ","Define, implement, and document new security features 
+Lead security-focused initiatives within a product engineering team
+Analyze, fix, and test vulnerabilities in open source software
+Contribute to Ubuntu and upstream open source projects to benefit the community 
+Audit and analyze source code for vulnerabilities 
+Integrate new tools into our security infrastructure, pipelines, and processes
+Achieve and retain various security certifications 
+Extend and enhance Linux cryptographic components to meet country-specific compliance requirements, such as FIPS and Common Criteria (CC) certifications
+Work with external partners to develop Center for Internet Security (CIS) benchmarks
+Design and develop hardening automation for Ubuntu 
+Stay up to date with trends and developments in the security industry
+Develop, test, and maintain new software capabilities "
+1/16/2026,Senior Angular Developer,TECEZE,Onsite,"Strong command of Angular CLI for scaffolding, building, and optimization.
+Experience with monorepo tools like Nx for large-scale workspaces.
+Knowledge of build tools (Vite/Webpack) and performance optimization techniques.
+Proficiency in Angular Material (preferred) or alternatives like PrimeNG, Syncfusion, Kendo UI, or NG-ZORRO for reusable, accessible components.
+Advanced knowledge of RxJS for handling asynchronous operations, observables, subjects, and operators.","Design, develop, and maintain large-scale single-page applications (SPAs) using Angular, ensuring high performance, responsiveness, and accessibility.
+Lead architectural decisions for front-end components, including modular design, reusability, and scalability.
+Implement advanced features such as lazy loading, dynamic components, server-side rendering (SSR) with Angular Universal, and progressive web app (PWA) capabilities.
+Integrate with back-end services via RESTful APIs, GraphQL, or WebSockets, handling authentication, data fetching, and error management.
+Manage complex state using reactive patterns and optimize RxJS observables for efficient data streams.
+Perform code reviews, mentor junior and mid-level developers, and promote best practices across the team.
+Optimize applications for maximum speed, scalability, and SEO, including performance profiling and bundling strategies.
+Collaborate with UX/UI designers, back-end developers, and product managers in an Agile environment.
+Ensure code quality through unit testing, end-to-end testing, and CI/CD integration.
+Stay updated with the latest Angular releases and ecosystem advancements to drive continuous improvement.
+"
+1/3/2026,Associate Technical Lead - iOS,Sysco LABS ,Hybrid," Bachelor’s Degree in Computer Science or equivalent, and 4+ years of experience developing on native iOS
+A passion for iOS and a commitment to building award-winning apps
+An expert level understanding of the iOS SDK
+Native mobile application development on iOS experience with fluency in Swift, Core, Foundation, UIKit, SwiftUI, Cocoa Touch, Core Animation and other frameworks provided by Apple
+Experience with RxSwift, RxCocoa and MVVM is a must
+FRP (Functional Reactive Programming) experience with any other framework such as Combine will be advantageous
+A strong understanding of Apple’s Human Interface Guidelines as well as interaction design best practices
+Experience shipping and maintaining apps, and knowing the ins and outs of Apple’s submission process
+A passion for building consumer facing applications with elegant and clean interfaces
+Experience developing, testing, shipping and supporting a product for hundreds of thousands of users is a plus
+Knowledge on Node.js, GraphQL and Apollo is an added advantage","Working on apps that revolutionize customer interaction at Sysco
+Being responsible for driving the development process from conception to release in a cross-functional team in an Agile delivery environment"
+1/16/2026,DevOps Engineer,TECEZE,Onsite,"Strong hands-on experience in DevOps or Cloud Engineering roles.
+Practical experience with AWS and/or Azure cloud platforms.
+Good knowledge of Linux systems and scripting.
+Experience with CI/CD tools and automation workflows.
+Hands-on experience with Docker and container-based deployments.
+Good understanding of networking, security, and system reliability.
+Familiarity with Git and collaborative development practices.
+Strong problem-solving and troubleshooting skills.","loud Infrastructure & Deployment
+Design, deploy, and manage cloud infrastructure using AWS and/or Azure.
+Provision and maintain compute, storage, networking, and security resources.
+Ensure system availability, scalability, and reliability across environments.
+Manage development, staging, and production environments.
+CI/CD & Automation
+Build and maintain CI/CD pipelines for automated build, testing, and deployments.
+Implement Infrastructure as Code (IaC) using tools such as Terraform / CloudFormation / ARM templates.
+Automate routine operational tasks to improve efficiency and consistency.
+Containerization & Performance
+Build and manage containerized applications using Docker.
+Deploy and manage containers using Kubernetes (EKS/AKS) or similar platforms."
+1/9/2026,Lead QA Engineer,IGT1,Hybrid,"Bachelor's degree in Computer Science, Engineering, or a related field. 
+7+ years of experience in software testing. 
+Familiarity with automation testing frameworks like SpecFlow, Cucumber, JMeter, Postman or equivalent. 
+Experience with GitHub actions or TeamCity and equivalent pipelines. 
+Knowledge of C#
+REST API testing knowledge - manual & automation
+Design and execute automation tests
+UAT, regression, and production validation. 
+Understanding of CI/CD pipelines and test execution. 
+Knowledge of containerization and orchestration tools (e.g., Docker, Kubernetes). 
+Performance testing with K6/JMeter / Gatling or any equivalent tool ","Develop and execute test plans, test cases, and test scripts. 
+Perform manual and automated testing of applications. 
+Identify, document, and track defects and issues. 
+Collaborate with developers to resolve defects and improve software quality. 
+Participate in code reviews and provide feedback on testability and quality. 
+Contribute to both external and internal product documentation
+Create and maintain test strategies, test cases, and traceability. 
+Collaborate with Product Owners, Developers, DevOps. 
+Provide release sign-off and risk assessments. 
+Drive QA best practices and continuous improvement. "
+1/9/2026,Javascript Developer,TECEZE,Onsite,"Minimum 6+ years of hands-on experience in frontend development.
+Expert-level knowledge of React JS, JavaScript (ES6+), HTML5, CSS3.
+Strong experience with state management (Redux, Context API, or equivalent).
+Solid understanding of RESTful APIs and frontend-backend integration.
+Experience with Git and modern development workflows.","Architect, develop, and maintain complex web applications using React JS and modern JavaScript standards.
+Convert high-fidelity UI/UX designs into pixel-perfect, accessible, and performant user interfaces.
+Design reusable components, hooks, and frontend libraries following best practices.
+Ensure optimal performance, scalability, and cross-browser compatibility.
+Integrate frontend systems with backend APIs and services."
+1/10/2026,Full Stack Engineer,,onsite,"Education
+Bachelor’s degree in Engineering, Computer Science, or a related field.
+Experience
+6+ years of full-stack development experience using React and .NET Core.
+Frontend Requirements
+Strong hands-on experience with React, TypeScript, HTML, and CSS.
+Experience with canvas or diagram libraries is a strong advantage.
+Solid design instincts with good UI/UX awareness and attention to detail.
+Backend Requirements
+Strong experience in .NET Core application development using C#.
+Exposure to scalable server-side architectures.
+Familiarity with concurrent programming, orchestration frameworks, and design patterns such as state machines.
+Solid understanding of REST API design, development, and integration.
+Tools & Engineering Practices
+Experience with CI/CD pipelines and MS SQL Server.
+Proficiency in Visual Studio, VS Code, Jira, Confluence, and GitHub.
+Strong unit testing skills, preferably using NUnit.
+Experience working in an Agile/Scrum development environment.","Design, develop, and deliver software solutions in close collaboration with the client’s engineering team.
+Work directly with client product managers and engineers to understand requirements and translate them into robust technical solutions.
+Ensure high-quality, reliable, and timely delivery of software features and enhancements.
+Uphold coding standards, enforce best practices, and continuously improve code quality and system design."
+1/9/2026,Backend Engineer,Mission.dev,Remote ,"A proactive engineer who can confidently dive into unfamiliar codebases and deliver results efficiently.
+Strong product mindset, with a definition of quality rooted in customer impact and outcomes.
+Experience with, or a strong willingness to learn, distributed systems development using Scala.","Design, build, and operate scalable APIs and backend systems, with occasional contributions across the stack as needed.
+Work autonomously while partnering closely with engineers, designers, and product managers to maintain strong alignment.
+Identify and drive engineering improvements that enhance both the product and team effectiveness.
+Collaborate cross-functionally with product teams, other internal engineering groups, and external partner teams."
+1/16/2026,Software Engineer,Speechify,Remote ,"Swift / SwiftUI (macOS) proficiency.
+Solid understanding of AppKit, macOS frameworks, and desktop-specific UI paradigms.
+Strong understanding of concurrency and asynchronous execution models
+Familiarity with Bitrise, CI/CD workflows (e.g., Xcode Cloud, GitHub Actions).
+Strong understanding of concurrency and asynchronous execution models","Lead key engineering and product decisions for the macOS app.
+Write, test, and ship production-quality code that scales to millions of users.
+Maintain and evolve complex app architecture with a focus on performance and stability.
+Work within a cross-functional team, partnering with designers and PMs to shape features from concept to launch.
+Participate in product planning and roadmap discussions.
+Drive continuous improvement in code quality, CI/CD processes, and development workflows."
+1/9/2026,Frontend Engineer,HeyMilo AI,Remote ,"3+ years of professional frontend engineering experience
+Strong React + TypeScript fundamentals
+Experience with Next.js (or similar React frameworks)
+Comfortable handling async data, streaming updates, and complex state
+Strong HTML/CSS fundamentals and attention to UI detail
+Experience with component libraries or design systems (Tailwind, shadcn/ui, etc.)
+You take high ownership and execute strongly
+You write most of your code in Cursor. Familiarity with Devin is a plus
+Availability to work US time–based hours (or significant overlap)","Building and shipping core frontend features used in live AI interviews
+Designing and implementing complex, real-time UI flows
+Owning frontend features end-to-end (from idea production iteration)
+Working closely with designers to turn UX into clean, production-ready UI
+Collaborating with backend and AI engineers on tightly coupled systems
+Improving performance, reliability, and UX polish
+Debugging and fixing real production issues"
+1/16/2026,Senior Software Engineer,TransMedia Inc.,Hybrid,"trong expertise in .NET Framework / .NET Core and C#
+Experience designing and building RESTful APIs
+Solid understanding of OOP, SOLID principles, and clean architecture
+Experience with relational or NoSQL databases (e.g., SQL Server, MongoDB)
+Experience with unit, integration, and functional testing
+Working knowledge of Agile development methodologies
+Hands-on experience with Git and Linux environments
+Experience in Docker-based development workflows
+Exposure to Azure services, Next.js, React, Jira, and Jenkins is a strong plus
+3+ years of professional experience as a Backend or Full Stack Engineer
+","Design, build, and maintain robust backend services using .NET
+Improve performance, scalability, and reliability across our SaaS product ecosystem
+Write clean, modular, and maintainable code using best practices
+Participate in architecture decisions for backend systems and cloud infrastructure
+Troubleshoot complex production issues and deliver timely solutions
+Work collaboratively in a fast-paced, Agile team environment
+Learn and adopt new technologies to introduce new features and optimise existing ones
+Take ownership, think proactively, and contribute innovative ideas"
+1/16/2026,System Engineer,IFS,Onsite,"Bachelor’s degree in Computer Science, Information Technology or related field. 
+3–6 years of experience in cloud infrastructure, system administration or DevOps roles. 
+Proven hands-on experience with:
+Azure Virtual Machines (VMs) – provisioning, scaling, and managing workloads. 
+Azure Virtual Networks (VNets) – configuration, security, and connectivity. 
+Azure Networking Components – Load Balancers, VPN Gateway, ExpressRoute, Application Gateway, DNS, and Firewall. 
+Microsoft Azure services – Storage, App Services, AKS, Monitoring, and Security. 
+Azure DevOps – Repos, Pipelines, Artifacts, and Boards. 
+Proficiency in scripting languages (PowerShell, Python). 
+Experience with Infrastructure as Code (ARM, Bicep, Terraform). 
+Strong knowledge of Azure networking, hybrid connectivity and security best practices. 
+Strong understanding of networking concepts and Azure networking services. 
+Knowledge of Azure security best practices and tools. 
+Microsoft Certified: Azure Administrator Associate. ","Design, deploy and manage scalable, secure and high-performing Azure infrastructure. 
+Implement best practices for Azure networking, storage, security and resource optimization. 
+Manage on premise IT infrastructure, 3rd party software like CDATA
+Design, deploy, and manage Azure Virtual Machines (VMs), ensuring optimal performance, security and cost efficiency. 
+Configure and manage Azure Virtual Networks (VNets), including subnets, peering, routing and network security groups (NSGs). 
+Implement Azure networking solutions, such as VPN Gateways, Application Gateways, Load Balancers, ExpressRoute and Private Endpoints, Build, maintain and optimize CI/CD pipelines using Azure DevOps. 
+Automate deployment processes for infrastructure and application code. 
+Integrate version control (Git), testing and release management in DevOps workflows. 
+"
+1/16/2026,Associate Systems Engineer,Acumatica APAC,Hybrid,"Bachelor’s degree in Information Technology, Computer Science or equivalent 
+At least 2+ years’ experience in administration of Windows environments 
+At least 2+ years’ experience in basic scripting 
+At least 1+ years’ experience in relational databases, preferably using MS SQL 
+At least 1+ years’ experience in managing websites, preferably using IIS 
+Willingness to adhere to and analyze standards/procedures for workflow and change management. 
+Excellent Troubleshooting skills, extremely customer-oriented, treating co-workers and customers with the utmost consideration and respect. 
+Analytical and problem-solving abilities and the ability to effectively prioritize and execute tasks in a high-pressure just-in-time environment 
+Experience with Accounting, ERP, or other business management software is a plus. ","Incident management. Day-to-day monitoring of the production service delivery environment to ensure all services and applications are operating optimally and Service Level Agreements (SLAs) are met 
+Administering and maintaining Acumatica SaaS Deployment lifecycle operations 
+Assist in operating and maintaining AWS environments following standard procedures 
+Identify optimization opportunities and solve problems affecting service delivery across all deployed applications, shared services, middle-ware and databases/data stores 
+Provide level 2/3 support for customer/partner initiated issues 
+Identify systems deficiencies and recommend solutions 
+Document forecasts, plans and resolutions for on-going and future reference 
+Innovate, promote and drive adoption of tools, technologies, policies and procedures in support of continuous improvement "
+1/16/2026,Senior Front-End & Mobile Developer,Growthprof,Hybrid,"Bachelor’s degree in Computer Science, Software Engineering, or related field; Master’s preferred.
+5+ years of experience in front-end development, with 3+ years in React, React Native & Next.js .
+Expert-level knowledge of HTML5, CSS3, JavaScript (ES6+), and TypeScript.
+Proven experience developing and deploying cross-platform mobile apps using React Native.
+Deep understanding of React architecture, including hooks, context, and advanced optimization (useMemo, useCallback, memo).
+Hands-on experience with state management (Redux, Zustand).
+Solid understanding of RESTful APIs, GraphQL, and backend integration patterns.
+Experience leading technical teams and managing front-end or mobile project delivery.
+Strong foundation in responsive design, accessibility, and performance optimization.
+Familiarity with modern version control (Git) and CI/CD workflows.","Lead a small team of front-end and mobile developers, providing mentorship, architectural guidance, and technical oversight.
+Architect and implement scalable, high-performance user interfaces for both web and mobile applications using React and React Native.
+Define and enforce front-end and mobile development best practices, coding standards, and reusable component libraries.
+Drive architectural decisions across the front-end and mobile stack, focusing on performance, modularity, and maintainability.
+Collaborate closely with backend engineers to design efficient data flow and integration with APIs.
+Optimize app performance through code-splitting, lazy loading, and native-level optimization techniques.
+Lead code reviews, ensuring high-quality, maintainable, and well-documented codebases.
+Champion modern development workflows, including CI/CD, automated testing, and advanced state management.
+Explore and integrate technologies such as micro-frontends, progressive web apps (PWA), and cross-platform UI frameworks.
+Drive UI consistency across web and mobile by translating Figma designs into pixel-perfect implementations."
+1/9/2026,Software Engineer,H2O.ai,Hybrid,"2+ years of professional software engineering experience.
+Strong programming skills in Python, Go, and React (or demonstrated ability to quickly master new technologies).
+Experience with cloud platforms (AWS, Azure, or GCP) and cloud-native architectures.
+Hands-on experience with CI/CD pipelines and DevOps practices.
+Proven ability to deliver features end-to-end, from design through deployment.
+Track record of learning quickly and adapting to new technologies and domains.
+ Essential Attributes
+Can-do attitude: You see obstacles as puzzles to solve, not roadblocks.
+Ownership mentality: You take pride in delivering high-quality solutions and stand behind your work.
+Fast learner: You're energized by new challenges and technologies, especially in ML and generative AI.
+Team player: You collaborate effectively, share knowledge, and elevate those around you.
+Execution-focused: You bias toward action and deliver results consistently.
+Innovative mindset: You're excited about pushing boundaries in generative AI applications.
+ Tech Stack
+Languages: Python, Go, React/JavaScript
+Cloud: AWS, Azure, GCP
+Domain: Generative AI, LLMs, ML infrastructure
+Tools: CI/CD pipelines, containerization, distributed systems","Design, develop, and deploy full stack features for the H2OGPTe platform from concept to production.
+Build and maintain robust systems software using Python, Go, and React.
+Implement and optimize solutions across major cloud platforms (AWS, Azure, GCP).
+Own the complete development lifecycle including CI/CD pipelines, testing, deployment, and monitoring.
+Collaborate closely with ML researchers and engineers to productionize generative AI innovations.
+Debug complex distributed systems issues and deliver creative solutions under pressure.
+Contribute to architectural decisions that shape the future of our generative AI platform.
+Rapidly prototype new capabilities and iterate based on user feedback.
+"
+1/16/2026,Senior Systems Engineer,Emapta Global,Hybrid,"Bachelor's degree in IT, Computer Science, or a related field
+Minimum 5 years of hands-on experience in systems engineering or infrastructure roles
+Strong expertise in Windows Server and Active Directory
+Solid understanding of Linux fundamentals
+Experience with Azure, AWS, and hybrid cloud infrastructures
+Proficiency in identity and access management, endpoint management, and patching (ConnectWise or equivalent RMM)
+Advanced automation and scripting skills (PowerShell required; Python or Bash a plus)
+Experience with virtualization platforms (VMware, Hyper-V, Proxmox)
+Strong knowledge of networking fundamentals (DNS, DHCP, TCP/IP, firewalls, VPN)","Administer and support Windows Server, Active Directory, Group Policy, DNS, DHCP, and core infrastructure services
+Manage Linux systems, perform routine maintenance, enforce security hardening, and troubleshoot issues
+Design, implement, and maintain hybrid cloud environments across Azure and/or AWS
+Maintain and optimize identity and access management, conditional access, MFA, and security best practices
+Manage endpoint environments, including deployment, monitoring, patching, and compliance using ConnectWise Automate or other RMM tools
+Administer and optimize virtualization platforms including VMware, Hyper-V, and Proxmox
+Collaborate with the Network team on connectivity, firewall rules, VPN access, and network troubleshooting while maintaining knowledge of TCP/IP, DNS, and core networking concepts
+Monitor infrastructure performance and system health; prevent outages and service degradation"
+1/16/2026,Senior Frontend Developer,Aster,Remote ,"Frontend Technologies
+Advanced proficiency in React (modern React patterns, hooks, Next.js).
+Expert-level TypeScript skills, including complex types and generics.
+Experience with state management tools such as Zustand or Redux.
+Strong knowledge of Tailwind CSS, custom design systems, and responsive layouts.
+Familiar with performance optimization: Webpack tuning, code splitting, lazy loading, and bundle size control.
+Web3 & Blockchain
+Experience with wallet integration libraries (Wagmi, Web3Modal, etc.).
+Familiarity with blockchain networks such as Ethereum, BSC, Arbitrum, Scroll, or Solana.
+Understanding of smart contract interactions and transaction flows.
+Knowledge of DeFi protocols and their integration patterns is a plus.","Design and implement scalable frontend architectures for high-frequency trading applications.
+Build responsive interfaces that handle real-time market data, WebSocket connections, and live price feeds.
+Develop sophisticated trading components including order forms, charts, position management, and portfolio dashboards.
+Implement wallet connections, blockchain interactions, and DeFi protocol integrations.
+Create responsive designs that work seamlessly across desktop and mobile devices."
+1/16/2026,Senior Software Engineer,PetDesk,Hybrid,"4–5 years of experience in PHP/Python, with a solid understanding of modern frameworks and development practices
+A deep understanding of SOLID principles, RESTful API design, and common software design patterns (including architectural and component diagrams)
+Proficiency in JavaScript/TypeScript for front-end or full-stack development.
+Practical experience with Docker and Kubernetes for containerization and orchestration.
+Familiarity with AWS infrastructure and cloud-native application development.
+Experience working in Agile/Scrum environments and applying Test-Driven Development (TDD) practices.
+Strong problem-solving skills and a product-first mindset, with the ability to balance technical excellence and business impact.","Write clean, clear, and maintainable code that stands the test of time
+Review code thoughtfully and mentor teammates to elevate their craft
+Tackle complex problems with strong analytical and problem-solving skills
+Work across the full stack — from CSS and HTML to databases and DevOps
+Champion engineering best practices (code reviews, CI/CD, testing, documentation)
+Take complete ownership of features from design to production and beyond"
+1/23/2026,Senior Full- Stack Engineer,Talent Studio,Hybrid,"5+ years of full-stack software development experience.
+Strong expertise in TypeScript and modern JavaScript frameworks.
+Hands-on experience with React and/or Next.js.
+Proven experience working on ERP systems or finance integrations.
+Strong knowledge of PostgreSQL and SQL performance optimization.
+Experience working with cloud platforms, preferably Azure.
+Experience using AI-assisted development tools such as Claude Code is a strong advantage.
+Strong problem-solving skills, ownership mindset, and ability to work independently.
+Graduates from UOM, IIT, UCSC, or similar recognized Sri Lankan universities are preferred.
+","Architect, develop, and maintain full-stack applications using TypeScript across frontend and backend systems.
+Build modern, performant user interfaces using React / Next.js.
+Design and optimize PostgreSQL database schemas supporting ERP and financial workflows.
+Develop and maintain integrations with ERP platforms and financial systems (accounting, invoicing, billing, payroll, payments).
+Integrate with third-party finance APIs while ensuring data accuracy, security, and transactional integrity.
+Ensure strong type safety, clean architecture, and high code quality across the stack.
+Leverage Claude Code for AI-assisted development, refactoring, debugging, and documentation, validating all outputs for quality and security."
+1/23/2026,Principal Database Engineer,Frontline Data Solutions,Remote ,"Advanced SQL Expertise:10+ years of experience with SQL Server and similar RDBMS, specializing in expert-level SQL, query tuning, indexing strategies, and execution plan analysis. Strong background in performance engineering (database optimizers, schema design) and high-availability architectures, including replication, read replicas, and Availability Groups. 
+System Modernization: Proven ability to incrementally improve legacy databases, optimize workloads, and enhance system reliability. 
+Cross?Functional Communication: Able to clearly explain database concepts and collaborate effectively with engineering, product, and technical teams. ","Data Architecture: Design and evolve database schemas and models to support new product features, scalability, and long?term performance. 
+Performance Optimization: Tune queries, indexing, and database configurations while partnering with engineers to write efficient, reliable data workflows. 
+ Reliability & Recovery: Implement and maintain backups, disaster recovery, replication, and high?availability processes to ensure data integrity. 
+Operations Management: Monitor database health, troubleshoot incidents, and manage upgrades, patches, and migrations across environments. 
+Cross?Team Collaboration: Work closely with Product, Engineering, and Technical Services to align data solutions with platform and customer needs. "
+2/6/2026,DevOps Engineer,Rhino Partners,Remote ,"Hands-on experience with *Microsoft Azure; **AWS experience is beneficial*
+? ?Experience with *Infrastructure as Code (IaC)* using *Terraform; **CloudFormation is a plus*
+? ?Strong experience in *PowerShell scripting* for automation tasks
+? ?Knowledge and experience with *Azure DevOps* or other *CI/CD tools*
+? ?Foundational knowledge and hands-on exposure to *Docker and Kubernetes*","?Design, implement, and maintain *CI/CD pipelines* using *Azure DevOps*
+? ?Provision and manage *cloud infrastructure* on *Azure and AWS* using *Terraform*
+? ?Develop and maintain *PowerShell scripts* for infrastructure and operational automation
+? ?Manage and monitor *Azure cloud resources*, ensuring availability, performance, and security
+? ?Collaborate and coordinate with *cross-functional teams* to support deployments and infrastructure needs"
+1/23/2026,Senior DevOps Engineer ,Creative Software,Hybrid,"Proven experience with AWS cloud services (EC2, RDS, S3, ECS, Lambda, etc.)
+.Strong hands-on experience with GitLab CI/CD
+.Demonstrated ability to build pipelines from scratch
+.Practical experience with Infrastructure as Code tools (Terraform, CloudFormation, or similar)
+.Proficiency with Docker and container-based deployments
+.Familiarity with applications built in Golang and JavaScript, and ability to integrate DevOps practices for these stacks
+.Strong scripting and automation skills (e.g., Python, Bash, PowerShell or similar)
+.Excellent troubleshooting and problem-solving abilitie
+","Understanding of programming languages (such as Golang, JavaScript, or others) to support developm
+entDesign, build, and maintain CI/CD pipelines using GitL
+ab.Develop and manage Infrastructure as Code (IaC) for deployments (e.g., Terraform, CloudFormatio
+n).Automate deployment processes and workflows to improve speed, reliability, and consisten
+cy.Ensure best practices in cloud infrastructure for scalability, performance, and securi
+ty.Collaborate with software engineers (working in Golang and JavaScript) to optimize the delivery lifecycle from code to producti"
+1/30/2026,Zoho Developer,TECEZE,Onsite,"Hands-on experience with Zoho Creator and Deluge scripting.
+Strong understanding of workflow automation and application development in Zoho.
+Experience with REST API integrations and third-party system connections.
+Familiarity with databases and data structures.
+Good problem-solving skills and ability to debug scripts and applications.
+Ability to work collaboratively in a team environment.","Development & Automation
+Design and develop applications using Zoho Creator.
+Automate business processes using Deluge scripting.
+Build reusable forms, reports, and workflows for efficiency and maintainability.
+Translate business requirements into functional applications and automated workflows."
+1/30/2026,Software Architect,Sysco LABS,Hybrid,"A Bachelor’s or Master’s Degree in Computer Science, Data Engineering, or a related field
+8+ years of experience in Data Science, Machine Learning Engineering, or DevOps, including 5+ years in a leadership capacity
+Proven experience implementing enterprise-grade MLOps platforms on cloud environments (GCP, AWS, or Azure)
+A deep understanding of machine learning lifecycle management, CI/CD automation, and AI governance
+Must possess a strong background in cloud-native technologies (Docker, Kubernetes, Terraform, Airflow)
+Familiarity with data governance, security, and compliance frameworks (e.g., GDPR, HIPAA, Responsible AI)","Leading the strategy, design, and operation of the enterprise MLOps platform to support scalable ML/AI model development and deployment
+Owning the evaluation, integration, and administration of MLOps tools (e.g., Vertex AI, MLflow, Kubeflow, DataRobot, custom frameworks)
+Partnering with the Data Platform Engineering team to align platform integrations with enterprise CI/CD pipelines and lifecycle governance frameworks
+Implementing a unified model registry, metadata store, and lineage tracking system to ensure auditability and reproducibility of ML assets"
+2/1/2026,Senior QA Engineer,iLabs,Onsite,"4+ years of experience in software quality assurance.
+Proficient in QA methodologies, processes, and tools such as TestRail and Jira.
+Solid experience in an Agile/Scrum development environment.
+Ability to develop robust test strategies, plans, and cases.
+Practical knowledge of at least one programming or scripting language.
+Familiarity with Selenium or similar automation frameworks.
+Understanding of SQL.","Prepare and execute detailed smoke and regression test scenarios.
+Maintain and update test cases to ensure thorough coverage and effectiveness.
+Collaborate with development teams to identify and resolve issues, ensuring the integrity of software releases.
+Provide quality assurance support to our weekly releases 
+Review requirements, specifications, and technical design documents to come up with test plans, test cases, and testing requirements and estimate the testing effort 
+Implement automated testing using open-source tools 
+Identifying, documenting, and tracking bugs 
+Perform thorough testing on resolved bugs 
+Develop and apply testing processes for new and existing products to meet client needs"
+3/1/2026,Cloud Operations Engineer,IGT1,Hybrid,"Understanding of Java JVM, JDK/JRE
+Ability to interpret java heap dumps and thread dumps
+Linux system administration experience
+Outstanding problem solving and logical thinking skills
+Great communication skills in English",
+2/6/2026,Principal Engineer,Canonical,Remote ,"An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Technical leadership as well as team motivation, direction and pace
+Deep experience with at least one of Go, Rust, Python or C 
+Conscientiousness and detail orientation, with a focus on performance
+Excellent communication skills including professional written and spoken English 
+Excellent interpersonal skills, curiosity, flexibility, and accountability ","Leading design and architecture of an impactful open source project
+Coding in Golang, Rust, Python, C/C++ or Typescript / React
+Collaborating proactively with a globally distributed team
+Mentoring, developing and advising colleagues in their career progression 
+Displaying technical leadership in Canonical and our communities 
+Debugging issues and producing high-quality code to fix them 
+Contributing to technical documentation with the aim to make it the best of its kind"
+1/23/2026,Java Application Developer ,Intellect Design Arena Ltd,Onsite,"3–5 years of experience in application implementation or production support
+Strong hands-on experience in:
+Core Java / Advanced Java / JEE
+JMS, JCA, JTA, JDBC
+Microservices, API-first & event-driven architectures
+SQL for troubleshooting and optimization
+Experience with cloud platforms such as OpenShift, Tanzu, or Azure
+Strong customer-facing and communication skills","
+Triage and prioritize customer-reported and internal issues based on severity and impact
+Troubleshoot and resolve complex application issues using Java and SQL
+Monitor applications across UAT / SIT / Production environments
+Create and maintain SOPs for implementation and support processes
+Engage with end customers daily, providing updates and managing expectations
+Perform root cause analysis and drive permanent fixes with cross-functional teams"
+1/30/2026,Data Engineer,Therighttalent,Onsite,"Programming: Advanced proficiency in SQL and Python is mandatory.
+Cloud: Hands-on experience designing and operating services in at least one major cloud platform (Azure preferred, AWS, or GCP), specifically involving data services (e.g., Azure Data Factory, Azure Synapse, S3/Redshift).
+Data Modeling: Strong expertise in relational and non-relational database design and modern data modeling techniques (e.g., dimensional modeling, Data Vault).
+Systems Knowledge: Familiarity with enterprise systems, particularly SAP ERP data structures, is highly desirable.
+Education: Bachelor’s or Master’s degree in Computer Science, Engineering, Information Systems, or a related quantitative field.","Design and implement the Group-wide, cloud-native data architecture (e.g., Data Lake, Data Warehouse, Data Mesh principles) to support analytics, reporting, and Machine Learning workloads.
+Define technical standards and best practices for data storage, security, quality, and governance across all data assets.
+Select and evaluate technologies for the data stack, ensuring compatibility with major cloud platforms (e.g., Azure/AWS/GCP)."
+1/23/2026,Lead Software Engineer,Acumatica APAC,Hybrid,"Minimum 8+ years of experience in building commercial business applications using Microsoft technologies (.NET, C# and MS-SQL) along with a degree in Software Engineering, Computer Science or Information Technology
+Minimum 2 years of experience leading software development teams, including managing Senior Developers
+Strong knowledge of C#, data structures and ability to write algorithms.
+Experience in teamwork with version control systems (preferably Git)
+Strong knowledge of the principles, patterns and design of complex software systems and the ability to apply them in practice.
+Passionate about writing things that are “elegant and efficient” – things that are robust, scalable and perform well.
+Enjoy collaboration, learning and teaching with others across disciplines.","Participate in the design, development and customizations of business applications
+Develop data access layers, business objects, and presentation layers
+Research and develop Enterprise grade Modular Software
+Support for existing code, code optimization, and refactoring
+Analyze the code, search for and correct errors in the existing functionality
+Working with development partners on architecture and code reviews
+Provide guidance and support to developers participating in Acumatica’s development network and evangelize the Acumatica ERP framework"
+1/30/2026,Senior Software Engineer,Creative Software,Hybrid,"B.Sc. in Engineering, Computer Science, or related discipline
+3+ years of full-stack experience in React and .NET
+Front-end requirements:
+-Strong experience in React, TypeScript, HTML/CSS
+-Experience with canvas/diagram libraries is a definite advantage
+-Good design instincts and UI/UX awareness
+Backend requirements:
+-Strong experience in .NET Core application development with C#
+-Exposure in scalable server application architecture
+-Familiarity with concurrent programming, orchestration frameworks, and design patterns like state machines
+Solid understanding of REST API design, development, and integration
+Experience with CI/CD pipelines and MS SQL Server
+Experience in Visual Studio, VS Code, Jira, Confluence, GitHub
+Strong skills in unit testing, preferably using NUnit
+Experience working in an Agile/Scrum development environment
+Excellent English communication skills, both written and verbal","Design and development of software solutions in collaboration with the client’s engineering team.
+Maintain strong, ongoing relationships with the client’s product managers and engineering team
+Ensure high-quality and timely delivery of software solutions
+Uphold coding standards, enforce best practices, and ensure continuous improvement.
+"
+1/30/2026,Full Stack Developer,Rhino Partners,Remote ,"Strong experience with Python & Django 
+ Solid experience with Next.js / React 
+ Hands-on experience with Docker & Kubernetes 
+ Experience working with REST APIs 
+ Familiarity with cloud platforms (AWS / GCP / Azure) 
+ Understanding of CI/CD pipelines 
+ Good communication skills and ability to work in a remote team ","Design and develop backend services using Python & Django 
+ Build modern, responsive frontend applications using Next.js (React) 
+ Work with containerized applications and deploy to Kubernetes environments 
+ Collaborate with product, design, and QA teams to deliver features end-to-end 
+ Write clean, maintainable, and well-tested code 
+ Participate in code reviews and technical discussions 
+ Troubleshoot, debug, and optimise performance "
+1/30/2026,Full Stack Engineer,Resilu,Remote ,"Computer Science degree or equivalent experience
+JavaScript
+React
+Node.js
+HTML/CSS
+RESTful APIs
+Database Management
+Problem Solving
+Communication","Design and implement scalable web applications
+Collaborate with UX/UI designers to enhance user experience
+Integrate front-end and back-end components
+Participate in code reviews and maintain code quality
+Debug and troubleshoot application issues
+"
+1/30/2026,Principal Software Engineer,HeyMilo AI,Hybrid,"5–7+ years of software engineering experience
+Strong distributed systems and AWS experience
+Experience building agentic AI systems; prompt engineering, RAG pipelines, LLM orchestration
+Familiarity with vector databases and retrieval-augmented generation patterns
+You use AI tools (Cursor, Devin) to write code daily
+You ship fast and own outcomes
+Comfortable with Python, FastAPI, React, Next.js
+Experience with MongoDB, Redis, and queue-based systems","Lead system design and architecture decisions
+Build and scale real-time AI infrastructure
+Ship full-stack features across backend and frontend
+Drive reliability, performance, and observability
+Mentor engineers and set technical standards"
+1/30/2026,Mobile Application Developer,Frontline Data Solutions,Remote ,"5+ years of experience in mobile application development.
+Expertise in MAUI and .NET technologies.
+Strong understanding of mobile UI/UX principles.
+Experience with RESTful APIs and third-party libraries.
+Familiarity with version control systems (e.g., Git).
+","Design and develop mobile applications using MAUI.
+Collaborate with UX/UI designers to implement user-friendly interfaces.
+Optimize applications for maximum speed and scalability.
+Conduct code reviews and mentor junior developers.
+Participate in the full application lifecycle, from concept to deployment."
+1/30/2026,Senior Java Software Engineer,Enactor,Onsite,"A degree (BSc) in Computer Science or a related field.
+? Minimum of 6 (SSE), 8 (ATL), 10 (TL) years experience in developing Java/J2EE systems
+? Database development on MSSQL, Oracle or MySQL using SQL and JDBC
+? Extensive knowledge of XML, XML Schema and XSLT
+? Experience in HTML5, CSS, JavaScript and frameworks such as Angular or React.
+? Effective use of design patterns, MVC and unit testing frameworks.
+? Experience in unit and integration testing and use of mocking frameworks.
+? Experience in REST & SOAP web services, Microservice Architecture, SOA and OR Mapping
+? A passion for Agile methodologies and knowledge of SDLC.
+? Experience in Docker, Kubernetes, Terraform, AWS/Azure is desirable.
+? Android or iOS mobile app development skills are highly desirable."," Develop high quality, testable, well-documented software.
+· Ensure adequate test coverage at unit and integration levels.
+· Work closely with the Technical Architects and Development Managers to convert functional and technical
+specifications to production quality software.
+· Participate in the configuration, testing and release processes.
+· Contribute to design and specification processes. Research and learn new technologies."
+1/30/2026,Senior Test Automation Engineer,Amused Group,Hybrid,"4+ years’ experience as a Test Automation Engineer.
+Leverage AI tools and techniques to improve test coverage, accelerate delivery, and enhance overall quality.
+Experience with a variety of different testing techniques such as UI Testing, Automated testing.
+Good understanding of software architecture and release processes.
+A sense of ownership and pride in your performance and its impact on the company’s success
+Excellent troubleshooting and problem-solving skills.
+Strong communication and collaboration skills, with the ability to effectively interface with both technical and non-technical team members.
+Familiar with test frameworks like Playwright, Cypress, Appium, Detox.","Plan, create and manage the overall Quality Planning Strategy.
+Active participation in the software development process, and cooperation with programmers, BA, and product teams.
+Create test plans, test scenarios and test reports for product quality.
+Execute automated and manual tests for both UI and API services.
+Design, develop, and maintain automated test frameworks and scripts using TS/JS."
+2/3/2026,Senior Software Engineer,Rootcode,Hybrid,"Bachelor's degree in Information Technology, Computer Science, or related field
+3+ years of hands-on experience building enterprise-grade applications
+Strong understanding of front-end and back-end architecture with experience in React/React Native/Next.js for front-end, Java Spring Boot/NestJS for back-end, and RESTful/GraphQL API development.
+Strong problem-solving skills and attention to detail
+Excellent communication and collaboration skills
+Familiarity with cloud platforms (especially AWS) for deployment and infrastructure management
+","Design, build, and maintain efficient, reusable, and reliable code across full-stack applications
+Build scalable software applications and contribute to architectural design
+Apply appropriate design patterns and frameworks with best practices and code coverage tools
+Mentor and guide junior developers through code reviews and knowledge sharing
+Adhere to Rootcode's information security policies, including data protection, access controls, and secure coding practices"
+2/3/2026,Senior Data Engineer,Alp Consulting Ltd.,Hybrid,"3+ Years of hands-on expereince in AWS Data Engineering
+ • Design, build, and maintain scalable pipelines using PySpark on AWS.
+ • Knowledge of Databricks on AWS is a must have
+ • Work with AWS services such as S3, Glue, EMR, and Redshift for data storage, transformation, and querying.
+ • Hands-on experience with Redshift, including performance tuning and data modelling. Strong SQL skills with experience in querying and optimizing large datasets.
+ • Manage and monitor data workflows using orchestration tools like Apache Airflow
+ • Knowledge of CI/CD workflows for data engineering projects.
+ • Utilize Git for version control, ensuring proper collaboration and tracking of code changes.
+ • Establish and follow best practices for repository management, branching, and code reviews.
+ • Good to have DBT Exposure -Contribute to DBT transformations and assist in setting up data modeling workflows.
+ • Working experience on Agile and Scrum medthodlogies",
+2/3/2026,Software Support Engineer,IGT1,Hybrid,"Experience working with Microsoft technologies, including ASP.NET, C#, Visual Studio, MS SQL Server, Azure
+Knowledge of HTML, XML, JavaScript, and CSS
+Outstanding problem solving and logical thinking skills
+Understanding of object-oriented programming concepts
+Understanding of client-server software architecture
+Experience of working with data structures and creating software algorithms",
+2/3/2026,Senior Software Engineer,Circles,Onsite,"5+ years industrial experience with a focus on front end engineering.
+Degree in Computer Science, Software Engineering or equivalent. MSc in Computer Science / Software Engineering will be beneficial.
+Excellent communication skills. In depth understanding in at least one modern frontend development framework with a focus on ReactJS, NextJS. Experience in Vanilla JS, CSS and JQuery.
+In depth understanding in creating and maintaining highly responsive and performant user interfaces for web applications.
+Work closely with product managers, UX/UI designers, and backend engineers to deliver cohesive and engaging user experiences.
+Write clean, maintainable, and scalable code while following best practices and coding standards.
+Hands on experience in maintaining scalable, extensible and testable code.
+Deep dive, problem-solving, RCA and systematic thinking to reach to the cause of issues.
+Stay up to date with modern frameworks & practices.","Functional availability of the software developed, enhancing the product based on functional requirements.
+Managing web applications and frontend applications for their functional correctness, availability and security.
+Own and provide detailed solutioning for given requirements/enhancements working closely with the Solution Architecture team.
+Own the engineering excellence and operational readiness of the services driving engineering SLI, SLO and SLA.
+Take full ownership of developed applications for the quality, security, availability, scalability etc.
+Produce architectural documentations for the assigned applications.
+Assist other Support Engineers on complex RCA issues. "
+2/4/2026,Senior DevOps Engineer,iLabs,onsite,"Bachelor’s degree in Computer Science, Engineering, or Information Technology
+5+ years of hands-on experience in DevOps, cloud infrastructure, or system engineering
+Agentic AI based DevOps automation knowledge/experience is a plus. 
+Strong expertise in CI/CD pipelines (Jenkins, GitLab CI/CD)
+Advanced experience with Kubernetes, Docker, and container orchestration
+Solid experience managing Linux and Windows servers and cloud platforms
+Strong knowledge of networking, firewalls, and security best practices
+Hands-on experience with Infrastructure as Code tools such as Terraform, Ansible, and Helm
+Experience with monitoring and logging tools (Prometheus, Grafana, ELK stack)
+Knowledge of database administration and troubleshooting (MySQL, MongoDB, etc.)","Lead and manage production and testing environment releases, ensuring stability and minimal downtime.
+Design, implement, and maintain CI/CD pipelines using tools such as Jenkins and GitLab CI/CD.
+Manage and optimize containerized environments using Kubernetes and Docker.
+Manage Kubernetes clusters including scaling, upgrades, workload optimization, and troubleshooting.
+Ensure auto-scaling capabilities are implemented and maintained across environments.
+Perform root cause analysis and lead resolution of critical system, application, and infrastructure issues.
+Design and maintain monitoring, alerting, and logging systems for core services (Prometheus, Grafana, ELK).
+Manage cloud (AWS/GCP multi-cloud) and on-premise infrastructure, ensuring security, scalability, reliability, and cost optimization.
+Implement and manage Infrastructure as Code (IaC) using Terraform, Ansible, and Helm.
+Work closely with development and operations teams to support releases, deployments, and system upgrades."
+2/6/2026,Senior Software Engineer?,Cambio Software,Hybrid,"Dynatrace, Chrome developer tools, Datadog, JMeter, Junit
+EJB3, Spring, Hibernate
+Front-end Development skills in Angular, React, JavaFX, Java Swing
+Maven, npm, pnpm, GIT, Jenkins
+Experience in Agile based methodologies such as Scrum/XP, Kanban
+Exposure to working with remote development teams","Minimum of 4+ years of experience in design and development using Java and JEE technologies
+Minimum SSE level prior experience of working on Enterprise software application development.
+Bachelor's degree in software engineering or relevant degree from a recognized University
+Ability to learn quickly, be adaptable and work in a dynamic environment"
+2/3/2026,Associate Software Engineer,Antler IT Solutions,Hybrid,"Experience with Odoo versions 16,17, 18, or higher
+Hands-on experience in Odoo Framework, Python Development and knowledge of PostgreSQL
+Experience in integration with third-party applications
+Odoo certification (added advantage)","End-to-end Odoo Implementation from gathering requirements and system design, development to UAT and user training.
+Develop Odoo modules/components.
+Managing/Supporting to document and troubleshoot issues, and providing ongoing functional support in post go-live periods"
+2/3/2026,Senior Software Engineer,Moresand Technologies,Hybrid,"Bachelors or Master’ degree in computer science, information systems, or related.
+4+ years of professional experience in .NET / .Net Core Framework with C#.
+Knowledge and working experience with different databases, like MSSQL or PostgreSQL.
+Professional skills in OOP and knowledge of design patterns (e.g. Gang-of-Four, SOLID)
+Understanding fundamental design principles behind a scalable application.
+Experience in analysis, design, coding, and implementation of complex, custom-built, multi-layered applications and web services.
+Experience building fast-rendering reusable and extendable components using HTML, CSS and modern JavaScript frameworks/libraries such as React, Angular, Typescript, etc.
+Proficiency with Git, Bitbucket, and code versioning tools.","Participate in all phases of the software development lifecycle, from design and AI-assisted prototyping to integration and deployment.
+Develop high-quality applications in accordance with specifications, leveraging modern tools including AI coding agents to enhance efficiency and explore optimal solutions.
+Collaborate proactively with developers across our global teams (Armenia, UK, India, Sri Lanka) on product development, including conducting knowledge-sharing sessions on effective AI tooling practices.
+Support and modernize projects implemented by other teams.
+Write clean, high-performance, and maintainable code. Utilize AI coding agents for tasks like code review, test generation, and debugging, while applying critical judgment to all outputs.
+Work both independently and as part of a team with a proactive, problem-solving attitude."
+2/3/2026,Senior Java Software Engineer,Enactor,Onsite,"A degree (BSc) in Computer Science or a related field.
+? Minimum of 5 (SSE), 8 (ATL), 10 (TL) years experience in developing Java/J2EE systems
+? Database development on MSSQL, Oracle or MySQL using SQL and JDBC
+? Extensive knowledge of XML, XML Schema and XSLT
+? Experience in HTML5, CSS, JavaScript and frameworks such as Angular or React.
+? Effective use of design patterns, MVC and unit testing frameworks.
+? Experience in unit and integration testing and use of mocking frameworks.
+? Experience in REST & SOAP web services, Microservice Architecture, SOA and OR Mapping
+? A passion for Agile methodologies and knowledge of SDLC.
+? Experience in Docker, Kubernetes, Terraform, AWS/Azure is desirable.
+? Android or iOS mobile app development skills are highly desirable."," Develop high quality, testable, well-documented software.
+· Ensure adequate test coverage at unit and integration levels.
+· Work closely with the Technical Architects and Development Managers to convert functional and technical
+
+
+Specifications to production quality software.
+· Participate in the configuration, testing and release processes.
+· Contribute to design and specification processes. Research and learn new technologies"
+2/3/2026,Lead Software Engineer ,Thomson Reuters,Hybrid,"Bachelor’s degree in computer science, Engineering, or in any related field
+5+ years of hands-on software development experience with proven track record of success
+Demonstrated leadership experience in delivering complex software projects
+Advanced proficiency in JVM-based languages
+Interest in working with Scala and a willingness to explore functional programming paradigms.
+Deep understanding of design patterns and architectural principles
+Hands-on experience with microservices architecture and containerization (Docker)
+Expert-level knowledge of relational database management
+Comprehensive understanding of enterprise architecture including scalability, integration, security, and testing strategies
+Proficiency with Agile methodologies, CI/CD pipelines, and version control systems
+Commitment to writing clean, maintainable, and well-documented code","Partner with stakeholders to architect scalable, robust software solutions with deep product understanding
+Lead hands-on design and implementation initiatives, collaborating closely with product owners and development teams
+Champion engineering excellence through comprehensive code reviews, testing strategies, and quality analysis
+Enforce industry’s best practices and development standards across all projects
+Guide and mentor junior developers, fostering their professional growth through knowledge sharing and hands-on coaching
+Provide technical leadership that drives teams toward quality deliverables and timely project completion"
+2/3/2026,Back-End API Developer,Frontline Data Solutions,Remote ,"Proven Experience in C# and .NET Core: You’re comfortable building and maintaining APIs and backend services using modern .NET technologies.
+RESTful API Development: You have a solid understanding of API design principles and experience integrating and consuming APIs in real-world applications.
+Database Proficiency: You can write efficient SQL queries and work with relational databases to ensure data integrity and performance.
+Version Control Mastery: You’re confident with Git-based workflows and understand how to collaborate effectively through pull requests and code reviews.","Build New Features: Collaborate with Product Managers, Frontend Developers, and fellow Backend Engineers to design and implement new features that enhance functionality, performance, and user experience across our core applications.
+Modernise Our Architecture: Help lead the transformation of our existing monolithic application into a modern, scalable, service-oriented architecture. You’ll have the opportunity to influence key architectural decisions and implement services that are robust, secure, and maintainable.
+Embrace Quality & Scale: Contribute to a codebase that’s clean, well-documented, and covered by tests. You’ll write scalable code with a focus on performance, fault-tolerance, and long-term maintainability."
+2/4/2026,Senior Software Engineer,TIQRI,Hybrid,"MSSQLC# and .Net (Added advantage)
+Selenium / Playwright experience with BDD frameworks ( Must)
+JMeter (Added advantage)
+Experience with API End-to-End test automation (Added advantage)",
+2/4/2026,Full Stack Developer,BCS Technology International Pty Ltd,Hybrid,"Minimum 4+ years of experience in Angular (v14 or higher).
+Minimum 4+ years of experience in C# & .NET Framework (At least with .NET Core v3).
+Strong proficiency in TypeScript, REST APIs, Unit Testing, and Git.
+Excellent command of English communication, both written and spoken.","Conduct analysis and estimates for requirements and bug fixes.
+Write standardized code and implement software modifications.
+Engage in rigorous testing and debugging to ensure application quality and stability.
+Collaborate with other team members when needed.
+Produce comprehensive documentation for familiarized modules.
+Demonstrate self-sufficiency in handling tasks of basic to medium complexity.
+Develop services to consume API endpoints provided by backend APIs.
+Create new endpoints in microservices using specified technology stacks.
+Adhere to code review guidelines.
+Proficiently utilize Git and Azure Repos."
+2/3/2026,Senior Software Engineer,IGT1,Hybrid,"4–6 years of experience in Software Engineering with a Bachelor’s or Master’s in Computer Science, Information Systems, or related field. 
+Skilled in programming languages: Golang, Python, SQL; exposure to and React is a plus. 
+Experience developing RESTful APIs using Go, Python, or similar frameworks. 
+Experience with CI/CD pipelines (GitHub, Jenkins) and containerization (Docker, Kubernetes/EKS). 
+Knowledge of AWS services: EC2, S3, DynamoDB, Elasticsearch. or Azure Services. 
+Strong understanding of Agile methodologies, APIs, and microservices. 
+","Develop RESTful APIs using Go, Python, or equivalent frameworks to expose data services and integrate with downstream applications. 
+Design & Develop scalable ingestion frameworks for structured, semi-structured, and unstructured data from diverse sources. 
+Build & Optimize ETL pipelines ensuring data integrity, quality, and reliability across batch and real-time workflows. 
+Automate Testing & Monitoring for ingestion frameworks to ensure resilience and adaptability. 
+Contribute to Architecture decisions, design patterns, and scalability strategies for new and existing systems. 
+Perform POCs to evaluate emerging technologies and continuously improve platform capabilities. "
+2/3/2026,Quality Assurance Automation Engineer,Alp Consulting Ltd.,Hybrid,"Should have experience on any of Non-Financial domains like Consumer Products and Retail, Health and Life Science, Telecom, Media and Entertainment, Oil and Natural Gas, Power and Utilities, Manufacturing etc.
+3-5 Years of experience in Quality Assurance Engineering
+Should have excellent communication skills & should be able to articulate concisely & clearly.
+Problem-solving skills","Responsible for contributing to the delivery of processes, solutions and/or projects, by delivering agreed activities, researching and presenting relevant information to inform recommendations.
+Accountable for delivering own work and meeting required targets which impact the immediate team.
+Hands on experience on test management tools like JIRA & ALM.
+Working knowledge of test automation tools like Selenium, playwright etc.
+Knowledge of API testing (Postman, SoapUI, ReadyAI)
+Meets performance objectives and metrics set locally (client service, quality and risk management, sales and business growth, solution development and teaming etc.)"
+2/4/2026,Systems Engineer,IFS,Onsite,"Experience with scripting languages (e.g., PowerShell, Python).
+Familiarity with regulatory frameworks (e.g., GDPR, HIPAA, ISO 27001).
+Excellent knowledge of cyber security principles and data privacy laws 
+Familiarity with cloud platforms and directory services 
+Strong analytical and problem-solving skills 
+BSc degree in Computer Science, Information Security, or a related field ","Design, deploy, and maintain IAM systems including authentication, authorization, and user provisioning.
+Integrate IAM solutions with enterprise applications and cloud platforms (e.g., Azure AD, AWS IAM).
+Implement role-based access control (RBAC), single sign-on (SSO), and multi-factor authentication (MFA).
+Monitor and troubleshoot IAM-related issues and ensure high availability and performance.
+Collaborate with security, infrastructure, and application teams to enforce access policies.
+Conduct audits and generate reports to ensure compliance with internal and external regulations.
+Automate IAM processes using scripting and orchestration tools."
+2/4/2026,Associate Software Engineer,iLabs,Onsite,"Minimum 0.6 - 1 years experience in the similar capacity with BS/MS degree in Computer Science, Engineering or a related subject.
+Strong knowledge of python programming languages is required.
+Experience with FastAPI, Django, Django REST Framework, and Celery for background task processing.
+Strong understanding of SOLID principles and ability to write clean, reusable, and maintainable code.
+Knowledge of MongoDB or AWS DocumentDB, along with caching technologies such as Redis.
+Experience with data engineering tools and platforms, including Delta Lake and Data Lakehouse architectures
+Proficiency in ELT/ETL data pipeline orchestration tools, such as Apache Airflow.
+Understanding about data warehousing solutions, relational database theories and no-sql databases.
+Good knowledge of new and emerging tools for extracting, ingesting and processing of large datasets (Kafka, Spark, Hadoop, DataBricks or equivalent).","Design and implement scalable, reliable distributed data processing frameworks and analytical infrastructure.
+Be part of a team to define, design, and implement data integration, management, storage, consumption, backup, and recovery solutions that ensure the high performance of the organization's enterprise data. 
+Develop Structured Query Language (SQL), Data Definition Language (DDL), and Python or equivalent programming scripts to support data pipeline development, problem-solving, data validation, and performance tuning. 
+Work with software engineers, devops, ML engineers, and data scientists to achieve the organization’s goals. "
+2/4/2026,Senior Software Engineer,Crossover,Remote,"At least 1 year of full-stack development experience, working on front and backend features.
+At least 2 years as the primary technical contributor for a SaaS product, driving strategic technical decisions.
+At least 4 years of experience working on actual SaaS products, not outsourcing or internal IT projects.
+Experience in using generative AI in your day-to-day development work.
+","Feature Development: Building and designing new capabilities with an emphasis on scalability, maintainability, and sustained product value.
+Requirement Engineering: Partnering with the product team to clarify requirements and guiding technical conversations to ensure features align with product objectives.
+Operations and Maintenance: Overseeing product stability, optimizing performance, and proactively detecting and addressing issues.
+Technical Design: Making high-stakes technical choices that directly influence user experience and product scalability."
+2/4/2026,Software Engineer,ArkTalents,Onsite,"Minimum 3 years of hands-on experience in Java backend development
+Solid understanding of relational databases and SQL
+Familiarity with Redis or other caching technologies is preferred
+Comfortable working in Linux command-line environments
+Experience with AWS or GCP is a plus (not mandatory)
+Proficiency in Mandarin Chinese is required, with good working English communication skills",
+2/5/2026,Senior Software Engineer,Rootcode,Hybrid,"bachelor's degree in Information Technology, Computer Science, or a related field
+3+ years of hands-on experience building applications with Python and the Django framework
+Strong experience with PostgreSQL database design, optimization, and management
+Proven ability to work independently and drive projects with minimal supervision
+Strong understanding of backend architecture and RESTful API development
+Experience with version control systems (Git) and CI/CD pipelines
+JavaScript/front-end experience is an advantage
+Strong problem-solving skills and attention to detail","Design, build, and maintain efficient, reusable, and reliable Python/Django code
+Build scalable backend applications and APIs, and get involved in architectural design
+Design and optimize PostgreSQL database schemas and queries for performance
+Identify and apply the right design patterns and frameworks
+Use the best practices and code coverage tools to ensure code quality
+Take full ownership of features and projects, independently managing technical decisions, implementation, and deployment"
+2/4/2026,Senior Software Engineer ,Circles,Onsite,"Around 5+ years of experience in software development of which 2 years are relevant Engineering Leadership experience
+Strong design and architectural experience in building various highly-scalable and highly-available products
+Strong understanding of the SDLC Activities which include Analysis, Design,
+Development, Testing, Deployment and Post-Production Support etc.
+Proficiency in at least one server side framework for languages such as Spring boot-java, Node.js, Golang
+Experience working on NoSQL & SQL Databases such as MySQL, PostgreSQL,MongoDB, Redis etc
+Preferred experience in Elasticsearch and Kibana (ELK Stack)
+Preferred experience with messaging systems like RabbitMQ
+Deep Dive, problem-solving, RCA and systematic thinking to reach the cause of issues
+Able to work independently and multi-task effectively
+Program at a system level and able to manage service stability","
+Working closely with the Engineers to develop the best technical design, strategy and drive execution to build capabilities into the platform
+Service ownership for the assigned services.
+Owning the delivery of various timelines, ensuring that key milestones are met and deliveries are of the highest quality.
+Establishing various best practices for software development and encouraging their adoption with the team and organization
+Collaborate with other non-technical stakeholders of the business which includes
+Product Managers, Designers, Marketing etc.
+Encouraging and mentoring an excellent team of talented engineers by mentoring them and working with them to remove any roadblocks
+Functional availability of the software developed, enhancing the product based on functional requirements
+Managing cloud-based services, web applications for their functional correctness, availability, security"
+2/4/2026,Senior Full Stack Engineer,Bridge Business Support Solutions,Hybrid,"5+ years of experience in full stack development
+Strong experience with Java, Spring Boot, Hibernate/JPA
+Frontend experience with React, Angular, or Vue.js
+Experience with REST APIs and microservices architecture
+Knowledge of SQL/NoSQL databases (MySQL, PostgreSQL, MongoDB, etc.)
+Familiarity with cloud platforms (AWS, Azure, or GCP)
+Experience with CI/CD pipelines and version control (Git)","Design, develop, and maintain full stack applications using Java and modern frameworks
+Build scalable backend services and RESTful APIs
+Develop responsive and user-friendly frontend interfaces
+Collaborate with product owners, designers, and other engineers
+Participate in code reviews and ensure best practices are followed
+Troubleshoot, debug, and optimize application performance
+Mentor junior developers and contribute to technical decision-making"
+2/4/2026,Senior Software Engineer,Firstsource,Remote,"Proven experience with LLMs and prompt engineering, including hands?on work with jailbreaks, prompt injection, and other adversarial prompting techniques.
+Strong understanding of LLM application architectures (system prompts, tools/agents, retrieval, guardrails, logging, and evaluation loops). 
+Ability to think like an attacker: creative, systematic, and persistent in finding edge cases and unintended behaviors.
+Experience designing experiments, running structured tests, and analyzing large sets of model outputs using scripting languages (e.g., Python) and basic data analysis tools.","Design and execute adversarial prompt campaigns (jailbreaks, prompt injection, data exfiltration, model misalignment, policy evasion) to deliberately cause LLM failures in realistic scenarios.
+Systematically “fail the model” by discovering new failure modes, reproducing them reliably, and documenting minimal prompts or chains of prompts that trigger them.
+Build and maintain structured test suites of adversarial prompts that can be run in CI/CD pipelines to prevent regressions and track model robustness over time. 
+Collaborate with safety, security, and product teams to prioritize risks, define expected behaviors, and translate findings into concrete mitigations (guardrails, filters, policy changes, data or fine?tuning needs).
+Perform red?team style exercises that emulate real attackers or misuse scenarios, including indirect prompt injection via tools, documents, and web content."
+2/5/2026,Database Engineer ,Cambio Software,Hybrid,"3+ years of working with SQL and SQL Server or database management systems.
+Strong understanding of database design principles, including normalization and indexing.
+Knowledge of database best practices.
+Can communicate fluently in English","As a Database Engineer, you enjoy database management, and we believe that you have good technical skills and have a keen interest in database development. You are a curious and analytical person who likes to dig into complex databases and thinks it is fun to find solutions to complex problems"
+2/9/2026,Cloud Engineer,IGT1,Hybrid,"3-5 years in Cloud Engineering, SRE, or Windows Systems Engineering supporting production environments. 
+Strong AWS experience across EC2, VPC, IAM, Route 53, S3, CloudWatch, ALB/NLB, security groups, and hybrid networking. 
+Advanced Windows Server expertise: AD/AD DS, Group Policy, DNS, IIS, certificates/PKI, Windows Firewall, WinRM/PowerShell Remoting. 
+PowerShell fluency (scripting and modules); Terraform and AWS CLI proficiency; Git workflows. 
+Strong troubleshooting capabilities across OS, identity, network, and application layers. 
+Experience in 24×7 operations or follow?the?sun models, including on?call rotations. ","Deploy, operate, and harden Windows Server workloads on AWS (EC2, ASG, Launch Templates, EBS, AMIs). 
+Manage Windows services: Active Directory/AD DS, AWS Directory Service/Managed AD, Group Policy, DNS, IIS, SMB file services (FSx for Windows), certificates/PKI, and RDP access. 
+Implement infrastructure-as-code using Terraform, Windows scripting, and AWS CLI; maintain consistent golden images and configuration baselines. 
+Use AWS Systems Manager (Run Command, Patch Manager, Inventory) to manage and standardize Windows fleets. 
+Build and maintain PowerShell scripts/modules for provisioning, configuration, maintenance, and diagnostics. 
+Contribute to shared Terraform modules and CI/CD deployments to reduce manual operations. "
+2/10/2026,Full Stack Engineer,ChampSoft,Onsite,"4+ years of professional experience as a Senior Software Engineer
+Strong expertise in Python, Django, and Django ORM
+Hands-on experience with GraphQL and REST API
+Solid experience with Docker and containerized application deployment
+Proficiency with AWS services: Lambda, ECS, EC2, SQS, CloudWatch
+Experience with Infrastructure as Code (IaC) (e.g., Terraform, CloudFormation)
+Proven experience in streaming APIs, webhooks, and event-driven architectures
+Strong knowledge of React and React Server-Side Rendering (SSR)
+Deep understanding of system design, scalability, and cloud-native architecture
+Experience with microservices architecture
+Familiarity with CI/CD pipelines, monitoring, and observability tools","Design, develop, and maintain cloud-native Django applications using best practices
+Build and optimize APIs using GraphQL, including complex data modeling with Django ORM
+Develop scalable microservices-based architectures
+Implement and manage containerized applications using Docker
+Build, deploy, and maintain services on AWS (Lambda, ECS, EC2, SQS, CloudWatch)
+Define and manage infrastructure using Infrastructure as Code (IaC) tools
+Develop and integrate streaming APIs, webhooks, and asynchronous event-driven systems
+Build responsive user interfaces using React, including server-side rendering (SSR)
+Ensure system scalability, reliability, and performance through sound system design and cloud architecture principles
+Implement CI/CD pipelines for automated testing and deployment"
+2/6/2026,Senior Software Engineer,Firstsource,Remote,"Proven experience with LLMs and prompt engineering, including hands?on work with jailbreaks, prompt injection, and other adversarial prompting techniques.
+Strong understanding of LLM application architectures (system prompts, tools/agents, retrieval, guardrails, logging, and evaluation loops). 
+Ability to think like an attacker: creative, systematic, and persistent in finding edge cases and unintended behaviors.
+Experience designing experiments, running structured tests, and analyzing large sets of model outputs using scripting languages (e.g., Python) and basic data analysis tools.
+Excellent written communication skills for documenting attacks, failure modes, and mitigation recommendations for technical and non-technical audiences.","Design and execute adversarial prompt campaigns (jailbreaks, prompt injection, data exfiltration, model misalignment, policy evasion) to deliberately cause LLM failures in realistic scenarios.
+Systematically “fail the model” by discovering new failure modes, reproducing them reliably, and documenting minimal prompts or chains of prompts that trigger them.
+Build and maintain structured test suites of adversarial prompts that can be run in CI/CD pipelines to prevent regressions and track model robustness over time. 
+Collaborate with safety, security, and product teams to prioritize risks, define expected behaviors, and translate findings into concrete mitigations (guardrails, filters, policy changes, data or fine?tuning needs).
+Perform red?team style exercises that emulate real attackers or misuse scenarios, including indirect prompt injection via tools, documents, and web content."
+2/6/2026,Database Engineer,Cambio Software,Hybrid,"3+ years of working with SQL and SQL Server or database management systems.
+Strong understanding of database design principles, including normalization and indexing.
+Knowledge of database best practices.
+Can communicate fluently in English",
+2/8/2026,Software Engineer,Crossing Hurdles,Remote,"Strong experience in machine learning engineering or applied ML research.
+Hands on experience with model development, experimentation, and evaluation.
+Background in ML research in industry or academic settings preferred.
+Strong written communication skills and high attention to technical detail.
+Ability to work independently and deliver high quality outputs on short timelines.","Design and write detailed evaluation suites for machine learning engineering tasks.
+Assess AI generated solutions across model training, debugging, optimization, and experimentation.
+Translate real world ML workflows into structured benchmarks for frontier models.
+Apply strong technical judgment to evaluate ML system design choices and tradeoffs.
+Work independently within a research driven, asynchronous project environment."
+2/11/2026, Cloud Engineer,IGT1,Hybrid,"3-5 years in Cloud Engineering, SRE, DevOps, or Cloud Operations roles. 
+Strong hands-on AWS experience: EC2, VPC, IAM, Route53, S3, Lambda, CloudWatch, networking, VPN, and security configurations. 
+Solid understanding of networking concepts: DNS, routing, IPsec tunnels, firewalls, packet tracing, NAT, load balancers. 
+Proficiency with Terraform, AWS CLI, scripting (Python, Bash, PowerShell), and automation workflows. ","Deploy, operate, and maintain AWS-based infrastructure supporting Rhapsody’s SaaS products (RaaS, CaaS, Envoy, Identity, etc.). 
+Implement infrastructure-as-code solutions using Terraform, AWS CLI, and automation frameworks. 
+Build and optimize VPCs, networking configurations, routing, security groups, and VPN tunnels (including 3rd?party appliances like Sophos). 
+Design and contribute to scalable, resilient architectures for cloud environments. 
+Lead deep-dive troubleshooting for cloud infrastructure, application connectivity, VPN issues, identity services, and AWS resource failures. "
+2/10/2026,Cloud Engineer,ArkTalents,Onsite,"Minimum 3 years experience in cloud technologies (including internships or academic projects).
+Familiarity with AWS or GCP services (EC2, S3, GCP VM, Cloud Storage).
+Basic understanding of CDN solutions (AWS CloudFront, GCP Cloud CDN).
+Knowledge of Nginx, DNS configurations, SSL certificate management.
+Version control experience with Git or similar tools.","Assist in designing, deploying, and managing cloud infrastructure on AWS or GCP.
+Monitor cloud service performance for stability and basic security compliance.
+Configure and manage DNS records; resolve basic domain resolution issues.
+Troubleshoot web application issues related to access, redirects, firewall, WAF, load balancing, and connectivity.
+Assist in configuring and maintaining Content Delivery Network (CDN) solutions.
+Deploy, install, and renew HTTPS/TLS certificates.
+Configure Nginx server proxy and HTTP services for stability and reliability."
+2/10/2026,Senior Software Engineer,Thomson Reuters,Hybrid,"A degree in Computer Science/Engineering or equivalent technical/professional qualification
+Minimum of 2 years of experience in designing and developing enterprise-level business applications using Java-related technologies
+Proficiency in JVM-based languages, including Java, scala
+Willingness to work with the functional programming language Scala
+Possess extensive knowledge of back-end systems and services development
+Good understanding of microservices and Docker
+Knowledge of relational databases and SQL
+Strong analytical and problem-solving skills
+Very good knowledge of OOP concepts and design patterns
+Knowledge of relational databases and SQL
+Very good understanding of software engineering best practices
+Proficient experience in CICD, code reviews, design reviews, code coverage, unit testing, and test automation",
+2/11/2026,Machine Learning Engineer ,H2O.ai,Remote,"Proven experience in data science, machine learning, and AI with a minimum of 4+ years of hands-on experience.
+Experience with Generative AI applications, including working with LLMs, prompt engineering, and fine-tuning including deployment of end to end ML pipelines
+Practical knowledge of Retrieval Augmented Generation (RAG) and vector databases
+Experience developing agentic AI systems for workflow automation","Experience with H2O.ai products (H2O MLOps, Driverless AI, h2oGPT)
+Experience with cloud platforms (AWS, GCP, Azure) and their ML services
+Contributions to open-source ML/AI projects
+Experience with model governance, responsible AI, and implementing guardrails for LLMs."
+2/11/2026,Software Architect,Sysco LABS,Hybrid,"A Bachelor’s or Master’s Degree in Computer Science, Data Engineering, or a related field
+8+ years of experience in Data Science, Machine Learning Engineering, or DevOps, including 5+ years in a leadership capacity
+Proven experience implementing enterprise-grade MLOps platforms on cloud environments (GCP, AWS, or Azure)
+A deep understanding of machine learning lifecycle management, CI/CD automation, and AI governance
+Must possess a strong background in cloud-native technologies (Docker, Kubernetes, Terraform, Airflow)
+Familiarity with data governance, security, and compliance frameworks (e.g., GDPR, HIPAA, Responsible AI)","Leading the strategy, design, and operation of the enterprise MLOps platform to support scalable ML/AI model development and deployment
+Owning the evaluation, integration, and administration of MLOps tools (e.g., Vertex AI, MLflow, Kubeflow, DataRobot, custom frameworks)
+Partnering with the Data Platform Engineering team to align platform integrations with enterprise CI/CD pipelines and lifecycle governance frameworks"
+2/11/2026,Senior Software Engineer,Crossover,Remote,"At least 1 year of full-stack development experience, working on front and backend features.
+At least 2 years as the primary technical contributor for a SaaS product, driving strategic technical decisions.
+At least 4 years of experience working on actual SaaS products, not outsourcing or internal IT projects.
+Experience in using generative AI in your day-to-day development work.","Feature Development: Architecting and building new capabilities with emphasis on scalability, maintainability, and sustained product value.
+Requirement Engineering: Partnering with the product team to clarify requirements and guiding technical conversations to ensure features support product objectives.
+Operations and Maintenance: Overseeing product stability through monitoring, performance optimization, and proactive issue detection and resolution.
+Technical Design: Executing high-stakes technical decisions that directly influence user experience and product scalability."
+2/12/2026,Senior Software Engineer,Mitra AI,Hybrid,"Bachelor’s degree in computer science/engineering or equivalent technical field.
+Have at least 3+ year of experience in developing enterprise grade applications.
+Strong programming skills in at least 1 programming language i.e.: Python, PHP or JavaScript.
+Experience with multiple languages will be an added advantage.
+Experience with relational and NoSQL databases and be able to identify use- cases of each.
+Experience with continuous integration and continuous delivery (CI/CD) tools and practices.
+Possess excellent verbal and written communication skills.","Design and develop software components adhering to both functional and non-functional requirements.
+Work with a team of A-players while coaching, mentoring and shaping junior engineers and our development efforts.
+Assure excellent quality of software development with a high level of unit, component and end-to-end testing."
+2/11/2026,Senior Devops Engineer,Talent Studio,Onsite,"Bachelor’s degree in Engineering, Computer Science, or a related discipline.
+Cloud certifications (preferably AWS) and Kubernetes certification are highly preferred.
+5+ years of experience in a DevOps role, including 2+ years in a leadership capacity.
+Strong analytical, problem-solving, and communication skills.
+Advanced expertise in Unix/Linux, shell scripting, and monitoring tools.
+Proficiency in Terraform, Node.js, Go, and Python.
+Hands-on experience with Docker, Kubernetes, CI/CD pipelines, and system administration.
+Experience managing cloud platforms including AWS, Azure, and GCP.","Develop AWS serverless solutions using Lambda.
+Implement IAC templates using tools like CloudFormation or Terraform, ensuring infrastructure changes are version-controlled, tested, and deployed in a controlled manner.
+Work with development teams to optimize application architectures for cloud environments while ensuring security, scalability, availability, and cost-efficiency.
+Build and manage scalable, secure cloud applications for production environments.
+Set up and configure CI/CD pipeline, multi-cloud resource provisioning, design, governing cloud architecture, communicating & guiding cloud best practices, testing, debugging cloud applications.
+setting up continuous integration and delivery pipelines, including Jenkins, GitOps, Argo CD.
+Work with high-transaction cloud environments, primarily AWS."
+2/11/2026,System Engineer,IFS,Onsite,"Bachelor’s degree in Computer Science, Information Technology or related field.
+3–6 years of experience in cloud infrastructure, system administration or DevOps roles.
+Proven hands-on experience with:
+Azure Virtual Machines (VMs) – provisioning, scaling, and managing workloads.
+Azure Virtual Networks (VNets) – configuration, security, and connectivity.
+Azure Networking Components – Load Balancers, VPN Gateway, ExpressRoute, Application Gateway, DNS, and Firewall.
+Microsoft Azure services – Storage, App Services, AKS, Monitoring, and Security.
+Azure DevOps – Repos, Pipelines, Artifacts, and Boards.
+Proficiency in scripting languages (PowerShell, Python).
+Experience with Infrastructure as Code (ARM, Bicep, Terraform).
+Strong knowledge of Azure networking, hybrid connectivity and security best practices.
+Strong understanding of networking concepts and Azure networking services.","Design, deploy and manage scalable, secure and high-performing Azure infrastructure.
+Implement best practices for Azure networking, storage, security and resource optimization.
+Manage on premise IT infrastructure, 3rd party software like CDATA
+Design, deploy, and manage Azure Virtual Machines (VMs), ensuring optimal performance, security and cost efficiency.
+Configure and manage Azure Virtual Networks (VNets), including subnets, peering, routing and network security groups (NSGs).
+Implement Azure networking solutions, such as VPN Gateways, Application Gateways, Load Balancers, ExpressRoute and Private Endpoints.Build, maintain and optimize CI/CD pipelines using Azure DevOps.
+Automate deployment processes for infrastructure and application code.
+Integrate version control (Git), testing and release management in DevOps workflows.Develop scripts using PowerShell, Python, or ARM/Bicep templates for provisioning and automation.
+Implement Infrastructure as Code (IaC) practices across environments.Develop scripts using PowerShell, Python, or ARM/Bicep templates for provisioning and automation.
+Implement Infrastructure as Code (IaC) practices across environments."
+2/11/2026,Software Engineer ,Keystone Recruitment,Remote,"2+ years of experience in software engineering, technical research, or educational content development
+Degree in Software Engineering, Computer Science, or a related field (Bachelor’s minimum; advanced degree preferred)
+Strong proficiency in languages like Python, JavaScript, Java, or C++, among other popular languages
+Experience with debugging, testing, and validating code","Review and refine AI-generated prompts, responses, and code
+Validate algorithms and software concepts for technical accuracy
+Provide structured feedback on solution quality and clarity
+Tag and organize content by topic, difficulty, or language
+Support benchmarking efforts to assess model capabilities"
+2/12/2026,Software Engineer backend,"NeuroDrive, Inc.",Remote,"2–5 years of backend development experience
+Strong Python skills and understanding of best practices
+Experience with FastAPI, PostgreSQL, SQLAlchemy ORM (or similar)
+Knowledge of LLMs / AI integrations (practical experience is a plus)
+Comfortable with Git workflows (GitHub/Bitbucket)
+Bachelor’s degree in CS, IT, Software Engineering, or equivalent
+","Develop backend systems using Python & PostgreSQL
+Build APIs with FastAPI
+Integrate AI/ML solutions, including LLMs
+Ensure apps are fast, reliable, and scalable
+Collaborate with frontend and product teams
+Use Git workflows for version control"
+2/14/2026,Senior Systems Engineer,Emapta Global,hybrid,"Bachelor's degree in IT, Computer Science, or a related field
+Minimum 5+ years of hands-on experience in L3 systems engineering or senior infrastructure support roles
+Proven experience supporting and maintaining hybrid environments (on-premises and Azure/AWS cloud integrations)
+Demonstrated experience managing hybrid cloud infrastructures (Azure and/or AWS)
+Advanced automation and scripting skills using PowerShell (required), with experience developing reusable automation frameworks (Python or Bash a plus)
+Solid Linux administration fundamentals
+Deep knowledge of Windows Server, Active Directory, and Linux fundamentals
+Experience with virtualization (VMware, Hyper-V, Proxmox)
+Networking knowledge (DNS, DHCP, TCP/IP, VPN, firewalls)
+Experience with RMM tools like ConnectWise
+Ability to resolve high-severity incidents and lead technical troubleshooting
+Strong documentation and cross-team collaboration skills
+","Administer and support Windows Server, Active Directory, Group Policy, DNS, DHCP, and core infrastructure services
+Manage Linux systems, perform routine maintenance, enforce security hardening, and troubleshoot issues
+Design, implement, and maintain hybrid cloud environments across Azure and/or AWS
+Maintain and optimize identity and access management, conditional access, MFA, and security best practices
+Manage endpoint environments, including deployment, monitoring, patching, and compliance using ConnectWise Automate or other RMM tools
+Administer and optimize virtualization platforms including VMware, Hyper-V, and Proxmox
+Collaborate with the Network team on connectivity, firewall rules, VPN access, and network troubleshooting while maintaining knowledge of TCP/IP, DNS, and core networking concepts
+Monitor infrastructure performance and system health; prevent outages and service degradation"
+2/15/2026,Full Stack Developer,Crossing Hurdles,Remote,"Proficiency with Airtable, Amazon EC2, Blackboard software, and strong Transact-SQL skills.
+Experience using Apache Kafka, Maven, Spark, and UNIX Shell scripting.
+Advanced programming knowledge including Oracle Java J2EE, Scala, Swift, and jQuery.
+Experience developing applications for Apple iOS, Google Android, and Microsoft Windows Server environments.
+Strong knowledge of Bootstrap, React, Spring Framework, and Vue.js for modern web development.
+Ability to develop and optimize algorithms for scalable digital solutions.
+Excellent written and verbal communication skills with strong attention to detail.","collaborate with management, users, and developers to design and integrate e-commerce solutions into web platforms.
+Work closely with front-end and back-end developers to deliver complete web development projects.
+Conduct user research and apply feedback to refine and improve digital interface experiences.
+Coordinate with network personnel and hosting providers to resolve technical issues affecting website performance.
+Work with management and development teams to prioritize project needs and resolve design or content conflicts.
+Utilize modern frameworks and technologies to build responsive, high-performance interfaces.
+Contribute expertise to AI system training by providing insights and feedback related to interface design and user experience.
+"
+2/15/2026,Software Engineer,IGT1,Remote,"2+ years of professional software engineering experience. 
+Strong experience developing backend systems using Python. 
+Hands-on experience building generative AI applications using LLMs. 
+Experience with RAG, embeddings, vector stores, and semantic retrieval. 
+Familiarity with evaluation techniques for LLM outputs. 
+Experience with FastAPI, Flask, Pydantic, or related frameworks. 
+Experience with Azure, Docker, Kubernetes, and CI/CD pipelines. 
+Familiarity with relational and non-relational databases. 
+Understanding of agentic systems and orchestration patterns. 
+Awareness of working with multitenant AI platforms and isolated tenant workloads. ","Develop and productionize LLM pipelines, including retrieval, orchestration, prompt strategies, and semantic processing. 
+Implement and maintain RAG pipelines, embeddings generation, and vector search capabilities. 
+Build resilient backend services and APIs supporting AI-driven platform features in a multitenant environment. 
+Contribute to evaluation frameworks measuring accuracy, relevance, and trustworthiness of AI outputs. 
+Leverage copilots and intelligent agents to automate workflows, code tasks, and operational processes. 
+Work with agentic frameworks (e.g., LangChain, LangGraph, AI Foundry, or similar) to design and execute multi-step AI workflows. 
+Contribute to backend capabilities that integrate with MCP-based tooling and structured AI action frameworks. 
+Ensure system scalability, cloud-native robustness, and adherence to engineering best practices. "
+2/15/2026,Senior Software Engineer,Crossover,Remote,"At least 1 year of full-stack development experience, working on front and backend features.
+At least 2 years as the primary technical contributor for a SaaS product, driving strategic technical decisions.
+At least 4 years of experience working on actual SaaS products, not outsourcing or internal IT projects.
+Experience in using generative AI in your day-to-day development work.","Feature Development: Architecting and building new capabilities with an emphasis on scalability, maintainability, and sustained product value.
+Requirement Engineering: Working alongside the product team to clarify requirements and guiding technical conversations to ensure features support overarching product objectives.
+Operations and Maintenance: Overseeing product health, optimizing performance, and anticipating and addressing potential issues before they escalate.
+Technical Design: Making high-stakes technical choices that directly influence user experience and the product's ability to scale."
+2/16/2026,Senior Software Engineer,HCLTech Sri Lanka,hybrid,"3+ years of professional Java development experience.
+Strong hands-on experience with microservices & Spring Boot.
+Deep understanding of microservices architecture.
+Professional experience with MySQL and MongoDB.
+Hands-on experience working with AWS cloud services.
+Experience in CI/CD pipelines and deployment automation.
+Experience with testing frameworks like JUnit, Mockito, etc.
+Prior experience working in agile/scrum environments.
+Experience in the EdTech sector.
+Understanding of Learning Tools Interoperability (LTI) standards.
+Knowledge of Docker, Kubernetes, and containerization.
+Familiarity with API gateway patterns and service mesh architectures.","Design, develop, test, and maintain scalable software applications.
+Enhance Java?based educational software features.
+Optimize application performance, reliability, and security.
+Write high?quality unit tests ensuring code stability.
+Contribute across the full SDLC—from requirement analysis to deployment.
+Work closely with engineering and product teams to enhance learner experience.
+Collaborate with UX designers and QA engineers during the development lifecycle.
+Participate in peer code reviews and Git pull request workflows.
+Mentor junior developers and promote engineering best practices.
+Actively participate in daily scrum ceremonies.
+Contribute to sprint planning, estimations, and retrospectives.
+Deploy code to production at least once every two-week sprint."
+2/23/2026,Machine Learning Engineer,Nexus Consulting,Remote,"3+ years of experience in machine learning engineering or applied ML research
+Hands-on experience with model development, experimentation, and evaluation
+Background in ML research within an industry lab or academic setting (strongly preferred)
+Strong understanding of ML system design and optimization tradeoffs
+Excellent written communication skills and high attention to technical detail
+","Design and write detailed evaluation suites for real-world machine learning engineering tasks
+Translate applied ML research and engineering workflows into structured benchmarks
+Evaluate AI-generated solutions related to model training, debugging, optimization, and experimentation
+Reason about ML system design choices, tradeoffs, and performance implications
+Produce clear, technically precise written assessments
+"
+2/23/2026,Frontend Software Engineer,Keystone Recruitment,Remote,"2+ years of experience in front-end or full-stack development (or technical content creation in web development)
+Bachelor’s degree in Computer Science, Software Engineering, or related field (advanced degree preferred)
+Strong proficiency in JavaScript, TypeScript, React, or vanilla JavaScript
+Ability to write clear technical specifications and structured evaluation criteria
+Detail-oriented mindset with a focus on verifiability and precision","Write realistic, self-contained prompts for client-side web apps, games, and simulations
+Develop precise, binary rubrics tagged by verification type
+Ensure rubric criteria are strictly pass/fail and verifiable via screenshot and code inspection
+Design tasks that test UI behavior, logic correctness, and edge-case handling"
+2/16/2026,DevOps Engineer,Nations Trust Bank PLC,onsite,"Minimum 3+ years of experience in DevOps, Cloud Engineering, or System Engineering roles.
+Bachelor’s degree in Computer Science, IT, Information Security, or related discipline.
+Hands-on experience with CI/CD tools (e.g., GitLab CI, GitHub Actions, Jenkins, Azure DevOps).
+Experience with cloud platforms such as AWS, Azure, or GCP.
+Working knowledge of Docker, Kubernetes, and container orchestration concepts.
+Experience using IaC tools such as Terraform or Ansible.
+Understanding of DevOps principles, SDLC, monitoring, and automation practices.
+Familiarity with common security standards (e.g., OWASP Top 10, CIS benchmarks) is an advantage.
+Strong analytical, troubleshooting, communication, and teamwork skills.
+Exposure to medium or large-scale enterprise environments—preferably in financial services—is a plus.
+Professional certifications (AWS, Azure, Terraform, CKA, etc.) are an added advantage.","Support smooth functioning of enterprise systems, servers, and operating environments for critical business applications.
+Work closely with software development teams to improve build, release, and deployment processes.
+Implement, maintain, and enhance CI/CD pipelines to ensure fast, reliable code integration and delivery.
+Automate environment setup, configuration management, and infrastructure provisioning using Infrastructure as Code (IaC).
+Contribute to designing secure, scalable cloud architectures.
+Monitor system performance, troubleshoot issues, analyze logs, and ensure platform reliability.
+Assist in optimizing cloud performance and cost utilization.
+Follow and enforce security best practices including IAM, network security, and encryption standards.
+Participate in cloud migration and modernization initiatives.
+Prepare documentation, contribute to knowledge sharing, and collaborate effectively with cross?functional teams."
+2/19/2026,Senior Software Engineer,Pearson,Remote,"Individual should possess a Bachelor's degree in Computing or Information Technology. Individuals who have a Bachelor's degree in Mathematics, Physical Sciences, or a specialization in the Engineering field will also be considered.
+
+Minimum five (5) years of experience in software engineering and design and three (3) year of additional experience as a Technical Lead.Possess advanced knowledge of Object Oriented Programming and Design
+Very good leadership skills with the ability to lead multiple development teams
+Strong technical knowledge and hands-on experience in one or more technology stack (Java/.Net/Mobile etc.) and good working knowledge of open source tools and technologies.
+A good understanding of Software Engineering Best Practices and ability to define and drive this within the teams
+Very good understanding and experience in design and implementation of enterprise applications
+Strong and effective interpersonal and communication skills (including English language skills) and the ability to interact promptly and professionally with teams across different time zones.
+Ability to work in a team environment collaboratively with positive attitude
+Ability to learn new technologies rapidly and share knowledge with other team members
+The desire to learn and continuously improve on the product quality, performance and other non-functional requirements.
+Provision of in-depth technical skills to fix ad hoc incidents/problems, mentoring and support DevOps teams to ensure best practice.
+A good understanding of Architectural and Design patterns
+Desirable Experience or Knowledge in the following areas:
+Web Application Development
+UI/UX Technologies
+Source control systems
+Unit testing and test automation frameworks
+Continuous integration and continuous deployment tools and technologies
+Agile practices
+Web and Application Servers ( Weblogic , Tomcat , IIS )
+Web Services - RESTful Web Services , SOAP Services
+Database design and programming
+Responsive Web Design","Responsible for design details under direction from Architect and clearly understand and defend trade-offs made.
+Provides leadership to technical resources to meet project deadlines and ensure project objectives are met in an efficient way
+Facilitates communication between team members and collaborates with the management to drive new initiatives.
+Ensures that code artifacts produced are of the highest quality, conforming to set or agreed upon standard. Should advocate such consistency to all members of the team.
+Makes optimum utilization of engineering tools and technologies to maintain a high productivity level in the team
+Provides realistic and accurate estimates and continuously improve on team productivity to achieve on-time Delivery.
+Follows the Pearson processes, agile practices and motivates his/her team members to do so.
+Escalates and communicates issues, risks and concerns to the management on time.
+Accepts project delivery responsibilities and demonstrate accountability to leadership.
+Builds competencies in product and technology domain to set expectations.
+Adhere to Pearson values and ethical practices.
+Maintains a sense of individuality in thinking and decision making.
+Is a professional in work aspects as well as conduct with other individuals.
+Provides feedback regarding product quality, performance, other non functional requirements and lead corrective measures
+Supports the engineering management in the recruitment process.
+Directly engage with the product management for requirement analysis and clarifications and play a key role in assisting engineering/product management to define product and engineering roadmap items
+Provides feedback to Software Engineering Manager to conduct performance appraisals/confirmations/promotions on team members
+Coaching and Mentoring of team members"
+2/20/2026,Software Engineer,Zebra Technologies,onsite,"Preferred Education: Bachelor's or Master’s degree in an appropriate engineering discipline required.
+Preferred Work Experience (years): Minimum of 5+ years of experience or an advanced degree and equivalent experience
+All other Regions:
+Bachelor's degree
+5+ years work experience","Develop and execute test plans, test cases, and test suites for SDKs and Tools, incorporating both manual and automated testing.
+Collaborate with cross-functional teams to grasp product requirements and acceptance criteria.
+Conduct manual and automated testing on all platforms to uncover defects and usability issues.
+Engage in agile development processes, including sprint planning and daily stand-ups.
+Stay updated on industry best practices and emerging technologies to enhance testing methodologies and automation techniques.
+Demonstrate a robust understanding of QA and automation methodologies, tools, and processes.
+Utilize agile development methodologies and tools such as Jira and Confluence.
+Showcase strong analytical and problem-solving skills, coupled with meticulous attention to detail.
+ 4+ years experience encompassing quality assurance, software testing, and automation-related roles "
+2/21/2026,Lead Backend Engineer,Discovered MENA,Remote,"Minimum of 5+ years in Python web frameworks (FastAPI, Django or Flask)
+Experience in SQL Database Design (PostgreSQL)
+Experience with containerisation and cloud native workflows, specifically deploying applications into Kubernetes environments
+Prior experience coaching/mentoring Software Engineers",
+2/20/2026,Senior Developer,Comun Labs,Remote,"5+ years of software development experience
+Strong experience in .NET (latest versions preferred)
+Solid experience with React (v15+)
+Hands-on Azure cloud experience
+Experience building REST APIs
+Understanding of authentication and authorisation patterns","Develop and maintain applications using .NET 10 and React 15
+Architect and deploy solutions on Microsoft Azure
+Design secure and scalable APIs and backend services
+Integrate Azure services (Azure AD / Entra ID, App Services, SQL, etc.)
+Ensure performance optimisation and application security
+Contribute to architectural decisions and technical strategy"
+2/22/2026,Senior Software Engineer,Levein Group,Remote,"Strong experience writing IaC using Terraform.
+Proven experience with AWS (in particular Lambda, ECS, SNS, SQS, Kinesis).
+High proficiency in a modern, statically-typed programming language.
+Familiarity with CI/CD pipelines and deployment automation.
+Strong problem-solving skills and ability to work independently in a cloud-native environment.
+Willingness to learn new languages and tools.","Manage and optimize infrastructure for scalability, security, and reliability using Terraform.
+Contribute to backend services (mainly Go and Clojure, with occasional work in TypeScript and Python).
+Participate in code reviews, architecture discussions, and operational best practices.
+Troubleshoot, monitor, and improve systems for performance and resilience."
+2/22/2026,DevOps Engineer,Next,hybrid,"Good understanding of DevOps best practices and Agile methodologies.
+Strong hands-on experience with Azure Cloud Infrastructure.
+Proven experience managing Azure Kubernetes Service (AKS) in production,
+Deep understanding of Kubernetes architecture, networking, scaling, and troubleshooting.
+Experience managing deployments using Helm.
+Experience implementing and maintaining GitOps workflows Infrastructure as Code using Terraform (Azure-focused).
+Strong experience with Azure DevOps (Repos, Boards, Artifacts, YAML-based CI/CD pipelines).
+Experience designing and maintaining CI/CD pipelines for containerized workloads.
+Strong understanding of Docker and container lifecycle management.
+Solid understanding of CDN concepts (caching, edge routing, SSL/TLS, WAF, performance optimization).
+Experience with observability and monitoring platforms (Dynatrace or similar).
+Experience integrating security and DevSecOps practices into CI/CD pipelines.
+Experience working in Linux and Windows Server environments.
+Strong scripting skills using Bash and/or PowerShell.","Implement and maintain production-grade AKS clusters, applying strong Kubernetes architecture knowledge, scaling, troubleshooting, and ensuring high availability across multiple regions.
+Implement and maintain GitOps workflows, standardizing deployments using Helm Charts for microservices and dependencies.
+Configure and optimize ingress and networking, including NGINX Ingress Controllers and Azure CNI for high-volume Tier-1 traffic.
+Manage the full Docker container lifecycle, ensuring container images are hardened, scanned, and secure before production.
+Provision and manage multi-environment infrastructure using Terraform, covering Dev, Test, and Prod using Azure-native resources.
+Develop reusable Terraform modules to drive consistent and scalable deployments aligned to DevOps best practices.
+Manage Terraform state and CI/CD integration, enabling automated “Plan and Apply” workflows and maintaining environment parity through Azure DevOps pipelines.
+Build Azure DevOps YAML pipelines with automated testing and multi-stage deployments for containerized workloads.
+Manage edge performance concepts (caching, edge routing, SSL/TLS) to support low-latency global customer access.
+Automate DNS configuration within CI/CD to optimize performance at the edge.
+Collaborate on DevSecOps controls, including WAF rules and vulnerability scanning, integrating security gates to safeguard sensitive data.
+Enable observability and monitoring using Dynatrace (or similar) across applications and cloud-native services, focusing on reliability and performance tuning.
+Use Bash and PowerShell scripting to bridge"
+2/23/2026,Full Stack Engineer,ArchipelagoHR,onsite,"5+ years of experience building full stack applications in a commercial setting
+Proficiency in JavaScript/TypeScript, with deep knowledge of NestJS and NextJS
+Solid experience in relational databases and management (we use Azure SQL)
+Strong understanding of RESTful API design, scalability, and maintainability
+Experience working in cloud environments (preferably Azure, with exposure to Kubernetes, Docker etc.)
+Comfortable with version control and collaboration tools like GitHub
+A self-starter with an entrepreneurial mindset who can work independently and mentor others
+Excellent communication skills and fluency in English","Build and deploy high-quality features using NestJS & TypeScript (our primary backend framework), with some contributions in Python for data processing
+Design and maintain relational databases (Postgres and Azure SQL), ensuring optimal performance and data integrity
+Develop and integrate clean, scalable APIs to support dynamic product features and 3rd-party services Create responsive and performant UIs using React/NextJS 15 deployed on Vercel that enhance user experience
+Work closely with design and product teams to turn ideas into functional, elegant features
+"
+2/24/2026,Senior Software Engineer,Eyepax,hybrid,"5+ years of hands-on experience in full-stack software development.
+Strong proficiency in Angular (v19+ preferred), TypeScript, JavaScript (ES6+), HTML5, CSS3, and responsive design frameworks.
+Solid understanding of frontend design principles, reusable/shared component patterns, and state management.
+Strong experience with Java, Spring Boot, and MySQL.
+Experience consuming and designing RESTful APIs and working with JSON.
+Familiarity with Git and modern CI/CD practices.
+Basic understanding of cloud platforms (AWS, Azure, or GCP).
+Experience working in Agile/Scrum development environments.
+Ability to work independently in a client-driven environment.
+Conceptual understanding of modern software architectures, including microservices, along with common design patterns and engineering best practices.
+Strong communication, analytical, and problem-solving skills.
+Bachelor's degree in computer science, IT, Engineering, or related field.
+","Design, develop, test, and maintain full-stack applications using Angular and Spring Boot.
+Build responsive, modular, and reusable UI components following modern Angular best practices.
+Develop and maintain backend services and RESTful APIs using Java and Spring Boot.
+Ensure seamless integration between frontend components and backend services.
+Apply clean architecture principles, component-based design, and modular patterns.
+Optimize application performance, security, and scalability.
+Collaborate with cross-functional teams to gather requirements and deliver aligned solutions.
+Participate in code reviews, technical discussions, and knowledge-sharing sessions.
+Troubleshoot, debug, and enhance existing applications.
+Document technical designs, integrations, and development best practices.
+"
